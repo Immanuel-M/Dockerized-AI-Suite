@@ -39,7 +39,7 @@ Built as part of my work at a college Makerspace, this project explores real-wor
 
 | Stable Diffusion (A1111) | Ollama Chat UI | Docker Dashboard | ExoBot Agent in Python |
 |--------------------------|----------------|------------------|------------------------|
-| ![A1111 UI](./screenshots/a1111_user_interface.png) | ![Ollama Chat](./screenshots/docker-chat.png) | ![Docker](./screenshots/docker_ui.png) | ![ExoBot](./screenshots/exobot.png) |
+| ![A1111 UI](./screenshots/a1111_user_interface.png) | ![Ollama Chat](./screenshots/docker-chat.png) | ![Docker](./screenshots/docker_ui.png) | ![ExoBot](./screenshots/exobot.png) 
 
 ---
 
