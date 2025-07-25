@@ -1,3 +1,4 @@
+🛠️ *This project is actively being restructured for Docker-based deployment on my home machine. The A1111 + LLM setup runs fully at work and will be mirrored here shortly.*
 # 🧠 AI Agent Toolkit with Docker: Stable Diffusion + LLM (LLaMA 4) + ExoBot
 
 ## Overview
